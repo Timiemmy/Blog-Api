@@ -22,7 +22,3 @@ Run the server
 
 -Note: I tried making it to print out the key at registration,but couldn't. If you find out how, kindly contribute.
 
-# Here is a preview of it.
-
-Screenshot (16).png)
-Screenshot (17).png)
