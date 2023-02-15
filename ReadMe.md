@@ -24,5 +24,5 @@ Run the server
 
 # Here is a preview of it.
 
-![](C:\Users\Faith\Pictures\Screenshots\Screenshot (16).png)
-![](C:\Users\Faith\Pictures\Screenshots\Screenshot (17).png)
+Screenshot (16).png)
+Screenshot (17).png)
